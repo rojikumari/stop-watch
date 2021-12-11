@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Meal Finder</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.css"
+        integrity="sha512-5A8nwdMOWrSz20fDsjczgUidUBR8liPYU+WymTZP1lmY9G6Oc7HlZv156XqnsgNUzTyMefFTcsFH/tnJE/+xBg=="
+        crossorigin="anonymous" referrerpolicy="no-referrer" />
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+    <div class="main-container">
+        <div class="container">
+            <div class="logo" id="logo"><span>Df</span>
+                Daily food
+            </div>
+            <h1 id="mainHead">Search Your Recipe</h1>
+            <div class="item" id="submit">
+                <!-- <form class="frm" id="submit"> -->
+                    <input type="text" id="search" placeholder="Search Here">
+                    <button class="search-btn" type="submit" id="fetch-btn">
+                        <i class="fa fa-search" aria-hidden="true"></i>
+                    </button>
+                <!-- </form> -->
+                <button class="random-btn" id="random">
+                    <i class="fa fa-random" aria-hidden="true"></i>
+                </button>
+            </div>
+            <h1 id="searchResults"></h1>
+        </div>
+    </div>
+    <div class="output-container">
+        <div class="result"> </div>
+        <div class="meal" id="meal"></div>
+        <div id="DisplayText">
+            <h2 id="Display">Display food</h2>
+        </div>
+        <div id="choose">
+            <img src="sear.png" alt="png">
+        </div>
+    </div>
+    <footer class="copyRight">
+        <p>Copyright 2021 <a href="#">www.DailyFood.com</a> All Rights Reserved</p>
+    </footer>
+    <script src="javaScript.js"></script>
+</body>
+
+</html>
