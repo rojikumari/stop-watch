@@ -1,0 +1,47 @@
+{
+   "checksum": "69bf8b026b6c12ad175c9ec1c2c5d73d",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13280424787125128",
+            "guid": "333ffe7d-567d-42fe-a746-128727d35041",
+            "id": "5",
+            "name": "Newton School",
+            "type": "url",
+            "url": "https://my.newtonschool.co/course/d956kaje11/details/"
+         }, {
+            "date_added": "13280425686485680",
+            "guid": "80d6e865-f5d3-4ef0-851c-0f213f3ae29c",
+            "id": "6",
+            "name": "Newton School",
+            "type": "url",
+            "url": "https://my.newtonschool.co/course/d956kaje11/details?tab=course"
+         } ],
+         "date_added": "13280423552782298",
+         "date_modified": "13280425686485680",
+         "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
+         "id": "1",
+         "name": "Bookmarks",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13280423552782557",
+         "date_modified": "0",
+         "guid": "82b081ec-3dd3-529c-8475-ab6c344590dd",
+         "id": "2",
+         "name": "Other bookmarks",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13280423552782560",
+         "date_modified": "0",
+         "guid": "4cf2e351-0e85-532b-bb37-df045d8f8d0f",
+         "id": "3",
+         "name": "Mobile bookmarks",
+         "type": "folder"
+      }
+   },
+   "version": 1
+}
