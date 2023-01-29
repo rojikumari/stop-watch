@@ -1,0 +1,85 @@
+00:00:00.004035 main     VirtualBox COM Server 6.1.30 r148432 win.amd64 (Nov 22 2021 15:15:30) release log
+00:00:00.004038 main     Log opened 2021-12-28T19:12:59.082908600Z
+00:00:00.004039 main     Build Type: release
+00:00:00.004044 main     OS Product: Windows 11
+00:00:00.004045 main     OS Release: 10.0.22000
+00:00:00.004045 main     OS Service Pack: 
+00:00:00.038515 main     DMI Product Name: VivoBook_ASUSLaptop X421JAY_X413JA
+00:00:00.050337 main     DMI Product Version: 1.0       
+00:00:00.050344 main     Firmware type: UEFI
+00:00:00.050570 main     Secure Boot: VERR_PRIVILEGE_NOT_HELD
+00:00:00.050585 main     Host RAM: 3787MB (3.6GB) total, 221MB available
+00:00:00.050589 main     Executable: C:\Program Files\Oracle\VirtualBox\VBoxSVC.exe
+00:00:00.050589 main     Process ID: 3104
+00:00:00.050590 main     Package type: WINDOWS_64BITS_GENERIC
+00:00:00.211380          VirtualBox: object creation starts
+00:00:00.211579          Home directory: 'C:\Users\rozys\.VirtualBox'
+00:00:00.212743          Installed Drivers:
+00:00:00.217412            C:\WINDOWS\system32\DRIVERS\VBoxNetLwf.sys (Version: 6.1.30.48432)
+00:00:00.217853            C:\WINDOWS\system32\DRIVERS\VBoxUSBMon.sys (Version: 6.1.30.48432)
+00:00:00.218097            C:\WINDOWS\system32\DRIVERS\VBoxDrv.sys (Version: 6.1.30.48432)
+00:00:00.218546            C:\WINDOWS\system32\DRIVERS\VBoxNetAdp6.sys (Version: 6.1.30.48432)
+00:00:00.258628          Loading settings file "C:\Users\rozys\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:00:00.260576          usbLibGetDevices: Starting USB device enumeration
+00:00:00.276204          Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#ROOT_HUB30#4&27bcf9ab&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 6
+00:00:00.276247          Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#ROOT_HUB30#4&27bcf9ab&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 7
+00:00:00.276285          Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#ROOT_HUB30#4&27bcf9ab&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 10
+00:00:00.278103          usbLibGetDevices: Found 3 USB devices, 0 captured
+00:00:00.278190          USB: Unknown USB device detected (idVendor: 0x13d3, idProduct: 0x56e6)
+00:00:00.278201          USB: Unknown USB device detected (idVendor: 0x8087, idProduct: 0x0026)
+00:00:00.386528          netIfIsWireless: CreateFile on '\\.\{BDBFAA08-FD22-4D59-BA01-6482A4E7878C}' failed with rcWin=2 (0x2) - ignoring
+00:00:00.390580          netIfIsWireless: CreateFile on '\\.\{4886119B-3B8C-46ED-B405-38BE1153690A}' failed with rcWin=2 (0x2) - ignoring
+00:00:00.396536          HostDnsMonitor: initializing
+00:00:00.406184          HostDnsMonitor: updating information
+00:00:00.406228          HostDnsMonitor: old information
+00:00:00.406229            no server entries
+00:00:00.406231            no domain set
+00:00:00.406231            no search string entries
+00:00:00.406231          HostDnsMonitor: new information
+00:00:00.406232            server 1: 192.168.0.1
+00:00:00.406233            no domain set
+00:00:00.406233            no search string entries
+00:00:00.458856          VD: VDInit finished with VINF_SUCCESS
+00:00:00.470683          Loading settings file "C:\Users\rozys\VirtualBox VMs\ubuntu\ubuntu.vbox" with version "1.16-windows"
+00:00:00.471583          VirtualBox: object created
+00:00:34.365113          netIfIsWireless: CreateFile on '\\.\{BDBFAA08-FD22-4D59-BA01-6482A4E7878C}' failed with rcWin=2 (0x2) - ignoring
+00:00:34.370890          netIfIsWireless: CreateFile on '\\.\{4886119B-3B8C-46ED-B405-38BE1153690A}' failed with rcWin=2 (0x2) - ignoring
+00:00:34.411747          netIfIsWireless: CreateFile on '\\.\{BDBFAA08-FD22-4D59-BA01-6482A4E7878C}' failed with rcWin=2 (0x2) - ignoring
+00:00:34.418035          netIfIsWireless: CreateFile on '\\.\{4886119B-3B8C-46ED-B405-38BE1153690A}' failed with rcWin=2 (0x2) - ignoring
+00:00:52.499294          Saving settings file "C:\Users\rozys\VirtualBox VMs\ubuntu\ubuntu.vbox" with version "1.16-windows"
+00:00:58.754191          Launched VM: 25201824 pid: 15672 (0x3d38) frontend: GUI/Qt name: ubuntu
+00:01:10.665964          ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={70401eef-c8e9-466b-9660-45cb3e9979e4} aComponent={ExtPackManagerWrap} aText={No extension pack by the name 'Oracle VM VirtualBox Extension Pack' was found}, preserve=false aResultDetail=0
+00:01:10.946650          ERROR [COM]: aRC=VBOX_E_IPRT_ERROR (0x80bb0005) aIID={85632c68-b5bb-4316-a900-5eb28d3413df} aComponent={SessionMachine} aText={Saved screenshot data is not available (VERR_NOT_SUPPORTED)}, preserve=false aResultDetail=-37
+00:01:11.398934          netIfIsWireless: CreateFile on '\\.\{BDBFAA08-FD22-4D59-BA01-6482A4E7878C}' failed with rcWin=2 (0x2) - ignoring
+00:01:11.405215          netIfIsWireless: CreateFile on '\\.\{4886119B-3B8C-46ED-B405-38BE1153690A}' failed with rcWin=2 (0x2) - ignoring
+00:01:36.738141          Saving settings file "C:\Users\rozys\VirtualBox VMs\ubuntu\ubuntu.vbox" with version "1.16-windows"
+00:01:36.877032          Saving settings file "C:\Users\rozys\VirtualBox VMs\ubuntu\ubuntu.vbox" with version "1.16-windows"
+00:01:40.474637          Saving settings file "C:\Users\rozys\VirtualBox VMs\ubuntu\ubuntu.vbox" with version "1.16-windows"
+00:01:51.468163          netIfIsWireless: CreateFile on '\\.\{BDBFAA08-FD22-4D59-BA01-6482A4E7878C}' failed with rcWin=2 (0x2) - ignoring
+00:01:51.475579          netIfIsWireless: CreateFile on '\\.\{4886119B-3B8C-46ED-B405-38BE1153690A}' failed with rcWin=2 (0x2) - ignoring
+00:01:51.575288          netIfIsWireless: CreateFile on '\\.\{BDBFAA08-FD22-4D59-BA01-6482A4E7878C}' failed with rcWin=2 (0x2) - ignoring
+00:01:51.586789          netIfIsWireless: CreateFile on '\\.\{4886119B-3B8C-46ED-B405-38BE1153690A}' failed with rcWin=2 (0x2) - ignoring
+00:02:11.989618          Saving settings file "C:\Users\rozys\VirtualBox VMs\ubuntu\ubuntu.vbox" with version "1.16-windows"
+00:02:16.085850          Launched VM: 74571312 pid: 8144 (0x1fd0) frontend: GUI/Qt name: ubuntu
+00:02:22.320133          ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={70401eef-c8e9-466b-9660-45cb3e9979e4} aComponent={ExtPackManagerWrap} aText={No extension pack by the name 'Oracle VM VirtualBox Extension Pack' was found}, preserve=false aResultDetail=0
+00:02:22.521066          ERROR [COM]: aRC=VBOX_E_IPRT_ERROR (0x80bb0005) aIID={85632c68-b5bb-4316-a900-5eb28d3413df} aComponent={SessionMachine} aText={Saved screenshot data is not available (VERR_NOT_SUPPORTED)}, preserve=false aResultDetail=-37
+00:02:22.879180          netIfIsWireless: CreateFile on '\\.\{BDBFAA08-FD22-4D59-BA01-6482A4E7878C}' failed with rcWin=2 (0x2) - ignoring
+00:02:22.889003          netIfIsWireless: CreateFile on '\\.\{4886119B-3B8C-46ED-B405-38BE1153690A}' failed with rcWin=2 (0x2) - ignoring
+00:25:52.317199 Watcher  Saving settings file "C:\Users\rozys\VirtualBox VMs\ubuntu\ubuntu.vbox" with version "1.16-windows"
+00:25:59.681626 Watcher  Reaper: Pid 8144 (1fd0) exited normally: -805306369 (0xcfffffff)
+00:27:13.228063          Saving settings file "C:\Users\rozys\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:27:16.337073          Saving settings file "C:\Users\rozys\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:27:19.372663          Saving settings file "C:\Users\rozys\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:27:22.384547          Saving settings file "C:\Users\rozys\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:28:12.353640          netIfIsWireless: CreateFile on '\\.\{BDBFAA08-FD22-4D59-BA01-6482A4E7878C}' failed with rcWin=2 (0x2) - ignoring
+00:28:12.367732          netIfIsWireless: CreateFile on '\\.\{4886119B-3B8C-46ED-B405-38BE1153690A}' failed with rcWin=2 (0x2) - ignoring
+00:28:12.418125          netIfIsWireless: CreateFile on '\\.\{BDBFAA08-FD22-4D59-BA01-6482A4E7878C}' failed with rcWin=2 (0x2) - ignoring
+00:28:12.422359          netIfIsWireless: CreateFile on '\\.\{4886119B-3B8C-46ED-B405-38BE1153690A}' failed with rcWin=2 (0x2) - ignoring
+00:28:49.997143          Saving settings file "C:\Users\rozys\VirtualBox VMs\ubuntu\ubuntu.vbox" with version "1.16-windows"
+00:29:00.382646          Launched VM: 74847952 pid: 7556 (0x1d84) frontend: GUI/Qt name: ubuntu
+00:29:07.297827          ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={70401eef-c8e9-466b-9660-45cb3e9979e4} aComponent={ExtPackManagerWrap} aText={No extension pack by the name 'Oracle VM VirtualBox Extension Pack' was found}, preserve=false aResultDetail=0
+00:29:07.512569          ERROR [COM]: aRC=VBOX_E_IPRT_ERROR (0x80bb0005) aIID={85632c68-b5bb-4316-a900-5eb28d3413df} aComponent={SessionMachine} aText={Saved screenshot data is not available (VERR_NOT_SUPPORTED)}, preserve=false aResultDetail=-37
+00:29:07.940624          netIfIsWireless: CreateFile on '\\.\{BDBFAA08-FD22-4D59-BA01-6482A4E7878C}' failed with rcWin=2 (0x2) - ignoring
+00:29:07.951336          netIfIsWireless: CreateFile on '\\.\{4886119B-3B8C-46ED-B405-38BE1153690A}' failed with rcWin=2 (0x2) - ignoring
+00:32:21.981740          Saving settings file "C:\Users\rozys\VirtualBox VMs\ubuntu\ubuntu.vbox" with version "1.16-windows"
+00:32:23.430468          ERROR [COM]: aRC=VBOX_E_IPRT_ERROR (0x80bb0005) aIID={85632c68-b5bb-4316-a900-5eb28d3413df} aComponent={SessionMachine} aText={Saved screenshot data is not available (VERR_NOT_SUPPORTED)}, preserve=false aResultDetail=-37
