@@ -143,3 +143,5 @@ git remote -v
 git config --get user.name
 git config --get user.email
 git clone https://github.com/arunavamodak/redux_toolkit_todo.git
+git clone git@github.com:rojikumari/redux-toolkit-to-do.git
+git clone https://github.com/rojikumari/redux-toolkit-to-do.git

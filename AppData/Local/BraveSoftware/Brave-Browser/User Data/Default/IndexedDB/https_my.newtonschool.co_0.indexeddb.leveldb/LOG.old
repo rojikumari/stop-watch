@@ -1,0 +1,15 @@
+2021/11/27-01:58:45.760 4668 Reusing MANIFEST C:\Users\rozys\AppData\Local\BraveSoftware\Brave-Browser\User Data\Default\IndexedDB\https_my.newtonschool.co_0.indexeddb.leveldb/MANIFEST-000001
+2021/11/27-01:58:45.762 4668 Recovering log #11
+2021/11/27-01:58:45.766 4668 Reusing old log C:\Users\rozys\AppData\Local\BraveSoftware\Brave-Browser\User Data\Default\IndexedDB\https_my.newtonschool.co_0.indexeddb.leveldb/000011.log 
+2021/11/27-02:05:27.540 6b24 Level-0 table #16: started
+2021/11/27-02:05:27.544 6b24 Level-0 table #16: 26297 bytes OK
+2021/11/27-02:05:27.548 6b24 Delete type=0 #11
+2021/11/27-02:05:27.549 6b24 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2021/11/27-02:05:27.550 6b24 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x01\x01\x02\x01C\x00f\x00i\x00r\x00e\x00b\x00a\x00s\x00e\x00:\x00a\x00u\x00t\x00h\x00U\x00s\x00e\x00r\x00:\x00A\x00I\x00z\x00a\x00S\x00y\x00A\x00D\x00r\x001\x00u\x00m\x003\x00i\x00L\x00E\x00n\x00J\x00-\x00s\x00P\x00l\x000\x00_\x00W\x00T\x00t\x00h\x00N\x00F\x00_\x009\x00I\x00z\x00F\x004\x00e\x00l\x00c\x00:\x00[\x00D\x00E\x00F\x00A\x00U\x00L\x00T\x00]' @ 614 : 1
+2021/11/27-02:05:27.550 6b24 Compacting 1@1 + 1@2 files
+2021/11/27-02:05:27.556 6b24 Generated table #17@1: 21 keys, 2281 bytes
+2021/11/27-02:05:27.556 6b24 Compacted 1@1 + 1@2 files => 2281 bytes
+2021/11/27-02:05:27.557 6b24 compacted to: files[ 0 0 1 0 0 0 0 ]
+2021/11/27-02:05:27.558 6b24 Delete type=2 #13
+2021/11/27-02:05:27.558 6b24 Delete type=2 #16
+2021/11/27-02:05:27.560 6b24 Manual compaction at level-1 from '\x00\x01\x01\x02\x01C\x00f\x00i\x00r\x00e\x00b\x00a\x00s\x00e\x00:\x00a\x00u\x00t\x00h\x00U\x00s\x00e\x00r\x00:\x00A\x00I\x00z\x00a\x00S\x00y\x00A\x00D\x00r\x001\x00u\x00m\x003\x00i\x00L\x00E\x00n\x00J\x00-\x00s\x00P\x00l\x000\x00_\x00W\x00T\x00t\x00h\x00N\x00F\x00_\x009\x00I\x00z\x00F\x004\x00e\x00l\x00c\x00:\x00[\x00D\x00E\x00F\x00A\x00U\x00L\x00T\x00]' @ 614 : 1 .. (end); will stop at (end)
